@@ -5,8 +5,8 @@
     <version value="1"/>
 
     <list>
-        <mapping class="com.preweather.android.db.Prvince"/>
-        <mapping class="com.preweather.android.db.City"/>
-        <mapping class="com.preweather.android.db.County"/>
+        <mapping class="android.preweather.com.preweather.db.Province"/>
+        <mapping class="android.preweather.com.preweather.db.City"/>
+        <mapping class="android.preweather.com.preweather.db.County"/>
     </list>
 </litepal>
